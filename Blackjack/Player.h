@@ -1,7 +1,8 @@
 #pragma once
 
 #include "Hand.h"
-#include "Shoe.h"
+
+class Shoe;
 
 class Player {
 protected:

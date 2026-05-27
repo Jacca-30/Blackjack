@@ -1,4 +1,6 @@
 #include "Player.h"
+#include "Card.h"
+#include "Shoe.h"
 #include <iostream>
 
 void Player::receiveCard(Card* card) {

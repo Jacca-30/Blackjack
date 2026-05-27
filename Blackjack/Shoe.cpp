@@ -1,4 +1,5 @@
 #include "Shoe.h"
+#include "Card.h"
 #include <iostream>
 #include <random>
 #include <algorithm>
